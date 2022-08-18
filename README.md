@@ -1,4 +1,4 @@
-<img align ="left" width="400px" height = "400px" src = "https://user-images.githubusercontent.com/84914729/185271107-63e17d20-43d8-4b2a-a369-d42d46928550.png">
+<img align ="left" width="300px" height = "300px" src = "https://user-images.githubusercontent.com/84914729/185271107-63e17d20-43d8-4b2a-a369-d42d46928550.png">
 <h1 align="center"> 💻 Hello world 💻 </h1>
 
 ```css
@@ -7,14 +7,13 @@
   height: 162cm; 
   display: Girl; 
   background: Web-Developer 🔨; 
-  color: green; 
+  color: API develping now; 
 }
 ```
-
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<br>
+<h3 >📚 Tech Stack 📚</h3>
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -26,16 +25,19 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>&nbsp
-  <br>
+  <br> 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Github-F80000?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/></a>&nbsp
+  <br>
 </p>
 
-<h3 align="center">✨ My Place ✨</h3>
-<p align="center">
-   <a align="center" href="https://www.instagram.com/uuuuudk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/uuuuudk/"/></a>&nbsp
-    <a href="mailto:uuuuddk@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=uuuuddk@gmail.com"/></a>
+<h3> My Place 💭</h3>
+<p> Click this icons 👇 </p>
+<p>
+  <a href="https://www.instagram.com/uuuuudk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/uuuuudk/"/></a>&nbsp
+  <a href="mailto:uuuuddk@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=uuuuddk@gmail.com"/></a>
+  <a href="https://blog.naver.com/ddkzzang"><img src="https://img.shields.io/badge/Blog-E71D29?style=flat-square&logo=Undertale&logoColor=white&link=https://blog.naver.com/ddkzzang/"/></a>&nbsp
 </p>
 
 
