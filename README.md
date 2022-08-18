@@ -1,6 +1,4 @@
 <img align ="left" src = "https://user-images.githubusercontent.com/84914729/185271107-63e17d20-43d8-4b2a-a369-d42d46928550.png">
-
-<h1 align="center"> Hello world <h1>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
