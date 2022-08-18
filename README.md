@@ -1,4 +1,4 @@
-<img align ="left" src = "https://user-images.githubusercontent.com/84914729/185271107-63e17d20-43d8-4b2a-a369-d42d46928550.png">
+<img align ="left" width="400px" height = "400px" src = "https://user-images.githubusercontent.com/84914729/185271107-63e17d20-43d8-4b2a-a369-d42d46928550.png">
 <h1 align="center"> 💻 Hello world 💻 </h1>
 
 ```css
