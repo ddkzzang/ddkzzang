@@ -1,8 +1,6 @@
 <img align ="left" src = "https://user-images.githubusercontent.com/84914729/185271107-63e17d20-43d8-4b2a-a369-d42d46928550.png">
 
 <h1 align="center"> Hello world <h1>
-
-
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -27,4 +25,3 @@
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
