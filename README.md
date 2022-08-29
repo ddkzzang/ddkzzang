@@ -40,4 +40,6 @@
   <a href="https://blog.naver.com/ddkzzang"><img src="https://img.shields.io/badge/Blog-E71D29?style=flat-square&logo=Undertale&logoColor=white&link=https://blog.naver.com/ddkzzang/"/></a>&nbsp
 </p>
 
+![ddkzzang's github stats](https://github-readme-stats.vercel.app/api?username=ddkzzang&show_icons=true)
+
 
