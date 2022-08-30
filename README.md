@@ -41,6 +41,7 @@
 </p>
 
 <h3> ✔ My Git Status <h3> 
-![ddkzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddkzzang&show_icons=true)
+
+  ![ddkzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddkzzang&show_icons=true)
 
 
