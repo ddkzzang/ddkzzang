@@ -11,8 +11,8 @@
 }
 ```
 <br>
-<h3 >📚 Tech Stack 📚</h3>
-<p>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
@@ -32,16 +32,17 @@
   <br>
 </p>
 
-<h3> My Place 💭</h3>
-<p> Click this icons 👇 </p>
-<p>
+<h3 align="center"> My Place 💭</h3>
+<p align="center"> Click this icons 👇 </p>
+<p align="center">
   <a href="https://www.instagram.com/uuuuudk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/uuuuudk/"/></a>&nbsp
   <a href="mailto:uuuuddk@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=uuuuddk@gmail.com"/></a>
   <a href="https://blog.naver.com/ddkzzang"><img src="https://img.shields.io/badge/Blog-E71D29?style=flat-square&logo=Undertale&logoColor=white&link=https://blog.naver.com/ddkzzang/"/></a>&nbsp
 </p>
 
-<h3> ✔ My Git Status <h3> 
+<h3 align="center"> ✔ My Git Status <h3>  
 
-  ![ddkzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddkzzang&show_icons=true)
+  ![ddkzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddkzzang&theme=vue&show_icons=true)
 
+  
 
